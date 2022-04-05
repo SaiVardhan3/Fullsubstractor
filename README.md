@@ -1,2 +1,2 @@
 # Fullsubstractor
-In this project a full verilog code for decoder and its testbench are uploaded
+In this project a full verilog code for half substractor and its testbench are uploaded
